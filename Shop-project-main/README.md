@@ -1,18 +1,4 @@
-# Shop.Project
-
-### Описание
-Веб-приложение магазина основанное на Node.js и Express.js
-
-### Инструменты
-- Node.js
-- Express.js
-- EJS
-- MySQL
-- React + Typescript
-- Redux, Redux Toolkit
-- SCSS
-
-### Как запустить проект
+Как запустить проект:
 - Клонируем репозиторий на локальный ПК (```git clone https://github.com/ReyChart/Shop.Project.git```)
 - Устанавливаем необходимые пакеты. В основной директории Shop.Project и внутренних директориях Shop.Admin и Shop.API используем npm (```npm install```). В директории Shop.Client используем yarn (```yarn install```)
 - Собираем клиентское приложение. Для этого переходим в директорию Shop.Clietn и выполняем команду ```yarn build```
